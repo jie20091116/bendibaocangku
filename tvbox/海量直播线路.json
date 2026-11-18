@@ -181,14 +181,8 @@
       "source": "裤佬线路"
     },
     {
-      "name": "👖裤佬体育直播[主]",
+      "name": "👖裤佬体育直播",
       "url": "https://jsnzkpg.de5.net/all.m3u",
-      "ua": "",
-      "source": "裤佬线路"
-    },
-    {
-      "name": "👖裤佬体育直播[备]",
-      "url": "https://stymei.pages.dev/live.m3u",
       "ua": "",
       "source": "裤佬线路"
     },
@@ -206,7 +200,7 @@
     },
     {
       "name": "👖裤佬虎牙直播",
-      "url": "https://huya.445569.xyz/live.m3u",
+      "url": "https://yahu.445569.xyz/live.m3u",
       "ua": "",
       "source": "裤佬线路"
     },
@@ -235,12 +229,6 @@
       "source": "裤佬线路"
     },
     {
-      "name": "👖裤佬YY直播",
-      "url": "https://yy.445569.xyz/live.m3u",
-      "ua": "",
-      "source": "裤佬线路"
-    },
-    {
       "name": "👖裤佬Twitch直播",
       "url": "https://twitch.445569.xyz/live.m3u",
       "ua": "",
@@ -255,42 +243,6 @@
     {
       "name": "🍿咪咕TV直播",
       "url": "https://eastscreen.tv/iptvlist.php?token=N1pcBwAGHwkCAx8OTFhABgEFAA",
-      "ua": "",
-      "source": "裤佬线路"
-    },
-    {
-      "name": "🍿易发TV直播",
-      "url": "https://445569.pages.dev/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
-      "ua": "",
-      "source": "裤佬线路"
-    },
-    {
-      "name": "🍿华视TV直播",
-      "url": "https://445569.pages.dev/https://raw.githubusercontent.com/swhtv/111/refs/heads/main/华视box华视大全swtv",
-      "ua": "",
-      "source": "裤佬线路"
-    },
-    {
-      "name": "🍿PPV体育赛事直播",
-      "url": "https://jsnzkpg4.pages.dev/https://www.korice.eu.org/ppv_m3u.php",
-      "ua": "",
-      "source": "裤佬线路"
-    },
-    {
-      "name": "🍿韩国Panda直播",
-      "url": "https://jsnzkpg4.pages.dev/https://xiongmao.caonizuzong.indevs.in/all.m3u",
-      "ua": "",
-      "source": "裤佬线路"
-    },
-    {
-      "name": "🍿乌拉TV直播",
-      "url": "https://jsnzkpg4.pages.dev/https://ilook.epg.one/5CM5SY98BF24PL/2",
-      "ua": "",
-      "source": "裤佬线路"
-    },
-    {
-      "name": "🍿全球TV直播",
-      "url": "https://jsnzkpg4.pages.dev/https://iptv-org.github.io/iptv/index.m3u",
       "ua": "",
       "source": "裤佬线路"
     },
@@ -1283,12 +1235,6 @@
       "url": "https://mpimg.cn/down.php/caac7a6dae8f835257a11e7a11291bf2.txt",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8066.0 Safari/537.36",
       "source": "小米"
-    },
-    {
-      "name": "牛播一",
-      "url": "http://127.0.0.1:9978/proxy?do=cctva",
-      "ua": "",
-      "source": "饭太硬6线"
     }
   ]
 }
